@@ -15,6 +15,10 @@
  ### "Coexisting mechanisms of luminogenesis in pancreatic cancer-derived organoids" _in revision_ -
   **S. Randriamanantsoa\***, M. Raich\*, D. Saur, M.Reichert, A. R. Baush
 
+# Distinctions
+
+Selected as "one of the 600 most qualified young scientists" worldwide to attend the 72nd Lindau Nobel Laureate Meeting, and meet more than 40 Nobel laureates. - 06/2023 [\[Link\]](https://www.mediatheque.lindau-nobel.org/meetings/2023)
+
 # Conferences
 
 * Selected talk - ISMC 2023 7th International Soft Matter Conference, Osaka, Japan - 09/2023 [\[Link\]](https://ismc2023.jp/welcome.html)
