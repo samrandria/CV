@@ -1,9 +1,18 @@
 # Publications 
-  *  "Spatiotemporal dynamics of self-organized branching in pancreas-derived organoids" **Nature Communications** 13, 5219 (2022) [\[Link\]](https://www.nature.com/articles/s41467-022-32806-y)
-     -   **S. Randriamanantsoa\*** , A. Papargyriou\*, H. C. Maurer, K. Peschke, M. Schuster, G. Zecchin, K. Steiger, R. Öllinger, D. Saur, C. Scheel, R. Rad, E. Hannezo, M. Reichert & A. R. Bausch.
+  ###  "Spatiotemporal dynamics of self-organized branching in pancreas-derived organoids" **Nature Communications** 13, 5219 (2022) [\[Link\]](https://www.nature.com/articles/s41467-022-32806-y)
+   **S. Randriamanantsoa\*** , A. Papargyriou\*, H. C. Maurer, K. Peschke, M. Schuster, G. Zecchin, K. Steiger, R. Öllinger, D. Saur, C. Scheel, R. Rad, E. Hannezo, M. Reichert & A. R. Bausch.
 
-  *  "Coexisting mechanisms of luminogenesis in pancreatic cancer-derived organoids" _in revision_ -
-     -   **S. Randriamanantsoa\***, M. Raich\*, D. Saur, M.Reichert, A. R. Baush
+  **Significance**: Pancreatic cancer is one the world's deadliest cancer, where patients remain asymptomatic until a diagnosis at advanced stages, followed by a brutal degradation of quality of life.
+  Surgery is, to date, the only curative option, but can only performed in the early stages of cancer progression. 
+  While tremendous progresses have been accomplished in characterising the biology of the cancer, therapeutic gains have not materialised, in part because the _in vitro_ models currently used cannot accurately model the development of cancerous lesions.
+  
+ In this work, we have developed an _in vitro_ model of tumours that **faithfully** recreate the architecture of the lesions and that allows the observation **in real time** of the dynamics at play.
+  This study represents a crucial step for our understanding of lesion formation and progression, and opens perspectives for the development and the testing of new therapies.   
+
+ ----
+
+ ### "Coexisting mechanisms of luminogenesis in pancreatic cancer-derived organoids" _in revision_ -
+  **S. Randriamanantsoa\***, M. Raich\*, D. Saur, M.Reichert, A. R. Baush
 
 # Conferences
 
@@ -32,3 +41,13 @@ In the Source Data folder, you can find examples of typical (academia!) code, he
 I use Jupyter notebooks for their transparency, reproducibility and ease of visualising. 
 `pandas` was used for data manipulation while `matplotlib` and `seaborn` are used for the visualisation. 
 
+# Supervision
+
+As part of my work at TUM, I have had the privilege of supervising great students at the Bachelor and Master levels for their thesis.
+
+* Guillermo Prol Castello - "Origin of dynamic nematic order in epithelial cell layers" - Universitat Politècnica de Catalunya - Bachelor, 2019
+* Anna Smettan - "Retroviral transduction of a murine pancreatic cancer cell line for organoid growth" - Technische Universität München - Bachelor, 2020
+* Giulia Zecchin - "Branch extension in pancreatic organoids" - Technische Universität München - Bachelor, 2020
+* Matús Novák - "The Role of the E-Cadherin During Lumen Formation in Pancreatic Ductal Adenocarcinoma Organoids" - Technische Universität München - Bachelor, 2021
+* Eric Waschkau - "Scaffold-guided morphogenesis of pancreatic ductal adenocarcinoma cells in a microfluidic chip"  Technische Universität München - Master 2021
+* Sangwon Lee - "Drastic fluid uptake by pancreatic cancer organoids: tip swelling and pearling" - Max Planck School Matter to Life, University of Göttingen - Master 2023
