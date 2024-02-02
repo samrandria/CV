@@ -1,5 +1,6 @@
 # Publications 
-  ###  "Spatiotemporal dynamics of self-organized branching in pancreas-derived organoids" **Nature Communications** 13, 5219 (2022) [\[Link\]](https://www.nature.com/articles/s41467-022-32806-y)
+ 
+ ###  "Spatiotemporal dynamics of self-organized branching in pancreas-derived organoids" **Nature Communications** 13, 5219 (2022) [\[Link\]](https://www.nature.com/articles/s41467-022-32806-y)
    **S. Randriamanantsoa\*** , A. Papargyriou\*, H. C. Maurer, K. Peschke, M. Schuster, G. Zecchin, K. Steiger, R. Öllinger, D. Saur, C. Scheel, R. Rad, E. Hannezo, M. Reichert & A. R. Bausch.
 
   **Significance**: Pancreatic cancer is one the world's deadliest cancer, where patients remain asymptomatic until a diagnosis at advanced stages, followed by a brutal degradation of quality of life.
@@ -45,9 +46,14 @@ I use Jupyter notebooks for their transparency, reproducibility and ease of visu
 
 As part of my work at TUM, I have had the privilege of supervising great students at the Bachelor and Master levels for their thesis.
 
-* Guillermo Prol Castello - "Origin of dynamic nematic order in epithelial cell layers" - Universitat Politècnica de Catalunya - Bachelor, 2019
-* Anna Smettan - "Retroviral transduction of a murine pancreatic cancer cell line for organoid growth" - Technische Universität München - Bachelor, 2020
-* Giulia Zecchin - "Branch extension in pancreatic organoids" - Technische Universität München - Bachelor, 2020
-* Matús Novák - "The Role of the E-Cadherin During Lumen Formation in Pancreatic Ductal Adenocarcinoma Organoids" - Technische Universität München - Bachelor, 2021
-* Eric Waschkau - "Scaffold-guided morphogenesis of pancreatic ductal adenocarcinoma cells in a microfluidic chip"  Technische Universität München - Master 2021
 * Sangwon Lee - "Drastic fluid uptake by pancreatic cancer organoids: tip swelling and pearling" - Max Planck School Matter to Life, University of Göttingen - Master 2023
+* Eric Waschkau - "Scaffold-guided morphogenesis of pancreatic ductal adenocarcinoma cells in a microfluidic chip"  Technische Universität München - Master 2021
+* Matús Novák - "The Role of the E-Cadherin During Lumen Formation in Pancreatic Ductal Adenocarcinoma Organoids" - Technische Universität München - Bachelor, 2021
+* Giulia Zecchin - "Branch extension in pancreatic organoids" - Technische Universität München - Bachelor, 2020
+* Anna Smettan - "Retroviral transduction of a murine pancreatic cancer cell line for organoid growth" - Technische Universität München - Bachelor, 2020
+* Guillermo Prol Castello - "Origin of dynamic nematic order in epithelial cell layers" - Universitat Politècnica de Catalunya - Bachelor, 2019
+
+
+
+
+
