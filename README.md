@@ -27,7 +27,8 @@ Selected as "one of the 600 most qualified young scientists" worldwide to attend
 * Selected talk - AQV Days 2022 - Quantitative Approaches to Living Systems, Paris, France - 01/2022 [\[Link\]](http://nonlineaire.univ-lille1.fr/AQV/journees/3/)
 * Selected Poster - Centuri 2019 Scientific Meeting (CSM 2019), Cargèse, France - 10/2019 [\[Link\]](https://centuri-livingsystems.org/member-area/centuri-2019-scientific-meeting-a-rich-and-exciting-scientific-time-in-cargese/)
 * Selected Poster - SFB 863 "Forces in Biomolecular Systems", Ringberg, Germany - 07/2019 
-* Co-organiser -  SFB 863 "Forces in Biomolecular Systems", Ringberg, Germany - 07/2019 
+* Co-organiser -  SFB 863 "Forces in Biomolecular Systems", Ringberg, Germany - 07/2019
+  * Responsible for the establishment of the scientific program, inviting guest speakers, and organising the logistic.
 
 
 # Seminar 
