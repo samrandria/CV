@@ -1,6 +1,6 @@
 # Publications 
  
- ###  "Spatiotemporal dynamics of self-organized branching in pancreas-derived organoids" **Nature Communications** 13, 5219 (2022) [\[Link\]](https://www.nature.com/articles/s41467-022-32806-y)
+###  "Spatiotemporal dynamics of self-organized branching in pancreas-derived organoids" **Nature Communications** 13, 5219 (2022) [\[Link\]](https://www.nature.com/articles/s41467-022-32806-y)
    **S. Randriamanantsoa\*** , A. Papargyriou\*, H. C. Maurer, K. Peschke, M. Schuster, G. Zecchin, K. Steiger, R. Öllinger, D. Saur, C. Scheel, R. Rad, E. Hannezo, M. Reichert & A. R. Bausch.
 
   **Significance**: Pancreatic cancer is one the world's deadliest cancer, where patients remain asymptomatic until a diagnosis at advanced stages, followed by a brutal degradation of quality of life.
@@ -12,7 +12,7 @@
 
  ----
 
- ### "Coexisting mechanisms of luminogenesis in pancreatic cancer-derived organoids" _in revision_ -
+### "Coexisting mechanisms of luminogenesis in pancreatic cancer-derived organoids" _in revision_ -
   **S. Randriamanantsoa\***, M. Raich\*, D. Saur, M.Reichert, A. R. Baush
 
 # Distinctions
