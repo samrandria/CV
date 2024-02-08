@@ -36,6 +36,7 @@ Selected as "one of the 600 most qualified young scientists" worldwide to attend
 * Invited talk - ibiTea webinar, ibidi GmbH, (online) - 06/2023 [\[Link\]](https://ibidi.com/content/933-ibitea-8-spatiotemporal-dynamics-of-self-organized-branching-in-pancreas-derived-organoids)
 * Munich Institute of Bio Engineering (MIBE), Garching Germany - 05/2023 [\[Link\]](https://www.bioengineering.tum.de/en/events/details/mibe-seminar-spatiotemporal-dynamics-of-self-organisation-in-pancreatic-cancer-derived-organoids)
 * Seminar for the group of Prof. Yanlan MAO - University College London, United Kingdom - 11/2022
+* SFB 1032 "Nano Agents" Annual Workshop - Munich, Germany - 10/2022 [\[Link\]](https://www.sfb1032.physik.uni-muenchen.de/news/workshops/sfb1032-workshop-2022/index.html)
 * Seminar for the Center of Protein Assembly - Garching, Germany - 2022
 * Seminar for the group of Prof. Tetsuya Hiraiwa lab - Mechanobiology Institute, Singapore 08/2022
 
