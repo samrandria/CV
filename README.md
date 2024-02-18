@@ -24,7 +24,7 @@ Selected as "one of the 600 most qualified young scientists" worldwide to attend
 * Selected talk - ISMC 2023 7th International Soft Matter Conference, Osaka, Japan - 09/2023 [\[Link\]](https://ismc2023.jp/welcome.html)
 * Invited talk - The 6th International Conference on Physics and Biological Systems, ENS Paris-Saclay, France - 06/2022 [\[Link\]](https://www.lptms.universite-paris-saclay.fr/physbio2022/)
 * Selected talk - Microphysio 2022 conference "Microphysiological systems from organoids to organ-on-chips", Cargèse, France - 04/2022 [\[Link\]](https://microphysio20.sciencesconf.org/)
-* Selected talk - AQV Days 2022 - Quantitative Approaches to Living Systems, Paris, France - 01/2022 [\[Link\]](http://nonlineaire.univ-lille1.fr/AQV/journees/3/)
+* Selected talk - AQV Days 2022 - Quantitative Approaches to Living Systems, Institut Jacques Monod, Paris, France - 01/2022 [\[Link\]](http://nonlineaire.univ-lille1.fr/AQV/journees/3/)
 * Selected Poster - Centuri 2019 Scientific Meeting (CSM 2019), Cargèse, France - 10/2019 [\[Link\]](https://centuri-livingsystems.org/member-area/centuri-2019-scientific-meeting-a-rich-and-exciting-scientific-time-in-cargese/)
 * Selected Poster - SFB 863 "Forces in Biomolecular Systems", Ringberg, Germany - 07/2019 
 * Co-organiser -  SFB 863 "Forces in Biomolecular Systems", Ringberg, Germany - 07/2019
