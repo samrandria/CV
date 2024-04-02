@@ -60,6 +60,27 @@ As part of my work at TUM, I have had the privilege of supervising great student
 * Guillermo Prol Castello - "Origin of dynamic nematic order in epithelial cell layers" - Universitat Politècnica de Catalunya - Bachelor, 2019
 
 
+# Some additional talks 
+
+In addition to talks strictly about my research topic, I also occasionally talks about broader issues in science in internal seminars. Here are some examples :   
+
+* "ChatGPT and Large Langage Models in scientific writing - Before using Generative AI in your next manuscript" - E22/E27 Winter School 2024
+
+The emergence of publicly-available large language models (LLMs) has garnered considerable attention, and some in the scientific community have been contemplating using those tools to write their next papers.
+This talk explores the issues associated to this idea, notably the questions of copyright and licencing, of plagiarism, of confidentiality, and of responsibility that accompany the use of current LLMs.
+I introduce examples and litigation cases, often outside of academia, to illustrate those issues.  
+
+---
+
+* "Statistics done wrong" - E22/E27 Winter School 2023
+
+Scientists love to use the words "statistically significant" or manipulate "p-values" to draw conclusions (!) about hypotheses. In most of the cases, this is done in a terribly wrong fashion, as has repeatedly been reported (see [here](https://www.nature.com/articles/d41586-019-00857-9), [here](https://www.nature.com/articles/526182a), [here](https://www.nature.com/articles/d41586-019-00874-8) or [here](https://www.nature.com/articles/nature.2016.19503)). Yet, the quest for 3 (or 4, or 5) stars of "significance" to put above barplots continues plaguing research.
+The ambition of this talk is to illustrate how bad this can get, to get the audience to hopefully re-consider before carelessly using statistics in their next paper.
+
+
+
+
+
 
 
 
