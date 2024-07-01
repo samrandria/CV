@@ -12,12 +12,22 @@
 
  ----
 
-### "Coexisting mechanisms of luminogenesis in pancreatic cancer-derived organoids" _in revision_ -
+### "Coexisting mechanisms of luminogenesis in pancreatic cancer-derived organoids" **iScience** (2024) [\[Link\]](https://www.cell.com/iscience/fulltext/S2589-0042(24)01524-4)
   **S. Randriamanantsoa\***, M. Raich\*, D. Saur, M.Reichert, A. R. Baush
+
+  **Significance**: Tumours, and the pre-cancerous lesions that precede them are not always solid masses of cells, but can possess internal cavities - "lumens" - in which fluid and material can circulate, in a fashion similar to the healthy lumens of exocrine glands in our bodies.
+In the context of pancreatic cancer, understanding how those cavities emerge is therefore primordial to improve early diagnosis, identify mechanisms of cancer progression, and develop new therapies.
+Using our architecturally-faithful _in vitro_ model of branched tumour organoids, we found that two complementary but orthogonal mechanisms of luminogenesis were at play, a phenomenon rarely observed in architecturally-simpler models such as spheroids. 
+Organoids leveraged both fluid intake - nucleating microcavities and fracturing branches along a fault line -, and targeted cell death in the centre of the branches, to hollow out cavities.
+
+This work further illustrates that an increased complexity in organoid architecture allows the emergence and the detection of rich morphogenetic events, and that in our attempts to recapitulate "function", we should also pay close attention not to neglect "form", as the two are often deeply intertwined.
+
+
 
 # Distinctions
 
 Selected as "one of the 600 most qualified young scientists" worldwide to attend the 72nd Lindau Nobel Laureate Meeting, and meet more than 40 Nobel laureates. - 06/2023 [\[Link\]](https://www.mediatheque.lindau-nobel.org/meetings/2023)
+For this occasion, I was interviewed by the Frankfurter Allgemeine Zeitung to talk about my experience there as a young researcher and "believing in the way forward" in Science. - 07/2023 [\[Link\]](https://www.faz.net/aktuell/wissen/forschung-politik/nobelpreistraegertagung-lindau-junge-forscher-erzaehlen-von-ihrer-arbeit-19016032.html)
 
 # Conferences
 
@@ -33,6 +43,7 @@ Selected as "one of the 600 most qualified young scientists" worldwide to attend
 
 # Seminar 
 
+* Selected talk - SFB 1032 "Nano Agents" Final Workshop, Schloss Lautrach, Germany - 06/2024
 * Invited talk - ibiTea webinar, ibidi GmbH, (online) - 06/2023 [\[Link\]](https://ibidi.com/content/933-ibitea-8-spatiotemporal-dynamics-of-self-organized-branching-in-pancreas-derived-organoids)
 * Munich Institute of Bio Engineering (MIBE), Garching Germany - 05/2023 [\[Link\]](https://www.bioengineering.tum.de/en/events/details/mibe-seminar-spatiotemporal-dynamics-of-self-organisation-in-pancreatic-cancer-derived-organoids)
 * Seminar for the group of Prof. Yanlan MAO - University College London, United Kingdom - 11/2022
@@ -62,7 +73,7 @@ As part of my work at TUM, I have had the privilege of supervising great student
 
 # Some additional talks 
 
-In addition to talks strictly about my research topic, I also occasionally talks about broader issues in science in internal seminars. Here are some examples :   
+In addition to talks strictly about my research topic, I also occasionally talks about broader issues in science during internal seminars. Here are some examples :   
 
 * "ChatGPT and Large Langage Models in scientific writing - Before using Generative AI in your next manuscript" - E22/E27 Winter School 2024
 
