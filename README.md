@@ -27,6 +27,7 @@ This work further illustrates that an increased complexity in organoid architect
 # Distinctions
 
 Selected as "one of the 600 most qualified young scientists" worldwide to attend the 72nd Lindau Nobel Laureate Meeting, and meet more than 40 Nobel laureates. - 06/2023 [\[Link\]](https://www.mediatheque.lindau-nobel.org/meetings/2023)
+
 For this occasion, I was interviewed by the Frankfurter Allgemeine Zeitung to talk about my experience there as a young researcher and "believing in the way forward" in Science. - 07/2023 [\[Link\]](https://www.faz.net/aktuell/wissen/forschung-politik/nobelpreistraegertagung-lindau-junge-forscher-erzaehlen-von-ihrer-arbeit-19016032.html)
 
 # Conferences
