@@ -50,7 +50,7 @@ For this occasion, I was interviewed by the Frankfurter Allgemeine Zeitung to ta
 * Seminar for the group of Prof. Yanlan MAO - University College London, United Kingdom - 11/2022
 * SFB 1032 "Nano Agents" Annual Workshop - Munich, Germany - 10/2022 [\[Link\]](https://www.sfb1032.physik.uni-muenchen.de/news/workshops/sfb1032-workshop-2022/index.html)
 * Seminar for the Center of Protein Assembly - Garching, Germany - 2022
-* Seminar for the group of Prof. Tetsuya Hiraiwa lab - Mechanobiology Institute, Singapore 08/2022
+* Seminar for the group of Prof. Tetsuya Hiraiwa - Mechanobiology Institute, Singapore 08/2022
 
 # Code 
 
@@ -59,7 +59,7 @@ For this occasion, I was interviewed by the Frankfurter Allgemeine Zeitung to ta
 
 In the Source Data folder, you can find examples of typical (academia!) code, here mainly used to load, clean, process, and visualise experiment data.
 I use Jupyter notebooks for their transparency, reproducibility and ease of visualising. 
-`pandas` was used for data manipulation while `matplotlib` and `seaborn` are used for the visualisation. 
+`pandas` was used for data handling while `matplotlib` and `seaborn` are used for the visualisation. 
 
 # Supervision
 
@@ -75,7 +75,7 @@ As part of my work at TUM, I have had the privilege of supervising great student
 
 # Some additional talks 
 
-In addition to talks strictly about my research topic, I also occasionally talks about broader issues in science during internal seminars. Here are some examples :   
+In addition to talks strictly about my research topic, I also occasionally talk about broader issues in science during internal seminars. Here are some examples :   
 
 * "ChatGPT and Large Langage Models in scientific writing - Before using Generative AI in your next manuscript" - E22/E27 Winter School 2024
 
