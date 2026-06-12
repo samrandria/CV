@@ -9,26 +9,16 @@
 In my work for the French Embassy to Switzerland, I had the pleasure of organising many public diplomacy events, related to science, research, higher education, and great societal challenges.
 I covered the entire spectrum: from drafting concept notes, planning the logistics of the event, preparing the program, liaising with speakers, communicating and advertising, and sometimes moderating myself the panels.
 
-- **Celebrating the alumni of French Higher Education in Switzerland** | May 27, 2026 @ Grande Orangerie de Berne [\[Link\]](https://www.francealumni.fr/fr/agenda/celebration-de-la-communaute-des-alumni-en-suisse-france-alumni-days-2026-6262) -- This marks the first time the French Embassy brought together the community 
-
+- **Celebrating the alumni of French Higher Education in Switzerland**  May 27, 2026 @ Grande Orangerie de Berne [\[Link\]](https://www.francealumni.fr/fr/agenda/celebration-de-la-communaute-des-alumni-en-suisse-france-alumni-days-2026-6262) -- This marks the first time the French Embassy brought together the community 
 - **Exploring the Universe, Transforming Medicine** | May 4, 2026 @ Universität Bern [\[Link\]](https://fr.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_espace-sant%C3%A9-innovation-activity-7453363770451714048-i-Wh) -- Of particular mention, we had the honour of welcoming Dr. Claudie Haigneré, former Minister, and the first French Woman to go to space!
-
 - **5th Kornhaus Dialog - European security and hybrid threats: France, Austria and Switzerland in a new geopolitical environment** | March 26, 2026 @ Welle 7, Bern [\[Link\]](https://www.linkedin.com/posts/activity-7444653276211531776-0jzA)
-
 - **One Health - From animals to humans: challenges and international cooperation in adressing zoonotic diseases** | March 17, 2026 @ Haus der Universität Bern [\[Link\]](https://www.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_one-health-berne-le-17-mars-2026-activity-7445411902836506627-Yx_A/?originalSubdomain=fr)
-
 - **Handling current and future nuclear waste: needs, solutions, perspectives** | October 30, 2025 @ Résidence de France à Berne [\[Link\]](https://fr.linkedin.com/posts/i2en_li2en-est-tr%C3%A8s-heureux-davoir-pu-contribuer-activity-7391152440751878144-8hw0)
-
 - **Protecting and preserving the oceans** | May 27, 2025 @ Universität Bern [\[Link\]](https://fr.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_prot%C3%A9ger-et-valoriser-durablement-les-oc%C3%A9ans-activity-7343999884229804032-Kk5W) -- Organised in the context of the 3rd Conference of United Nations on Ocean (UNOC3) hosted by France in Nice
-
 - **4th Kornhaus Dialog - Artificial intelligence and countering disinformation: threat or opportunity for democracies** | February 2O, 2025 @ Kornhaus Forum, Bern [\[Link\]](https://www.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_d%C3%A9bat-ia-activity-7292119817870798849-z64R)
-
 - **Celebrating the French community of ETH Zurich** | November 19, 2025 @ ETH Zürich 
-
 - **10 years after the Paris Agreement, the fight continues: between aspirations and reality** | November 10, 2025 @ Universität Bern [\[Link\]](https://fr.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_message-de-laurence-tubiana-depuis-bel%C3%A9m-activity-7398712373886357505-etj3)
-
 - **Franco-Swiss Days for Higher Education & Research** | May 22-23, 2025 @ Universität Basel [\[Link\]](https://www.linkedin.com/posts/campusfrance_%C3%A0-loccasion-des-journ%C3%A9es-france-suisse-activity-7342827406002429952-Jzlp/?originalSubdomain=fr) -- We brought together nearly 40 French and Swiss institutions - universities, ministries, startup incubators -, to discuss how to reinforce the link between education, research, and innovation ecosystems     
-
 - **French Nuclear Industry Day** | March 14, 2025 @ Paul Scherrer Institut [\[Link\]](https://www.i2en.fr/evenement/french-nuclear-industry-day-in-switzerland/)
 
 
