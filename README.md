@@ -1,3 +1,28 @@
+**Here, you will find some work that I am proud to have contributed to, both in my career in (scientific) diplomacy and as a researcher at the Technische Universität München** 
+
+----
+# My career as a diplomat (2024-2026)
+----
+
+# Scientific diplomacy 
+
+In my work for the French Embassy to Switzerland, I had the pleasure to organise many public diplomacy events, related to Science.
+This included everything from planning the logistics of the event, preparing the program, liaising with speakers, and sometimes moderating myself the panels.
+
+
+- **4th Kornhaus Dialog**
+- **5th Kornhaus Dialog**
+- **10 years after the Paris Agreement**
+- **Journées France Suisse de l'enseignement supérieur et de la recherche** | May 22-23, 2025 @ Universität Basel [\[Link\]](https://www.linkedin.com/posts/campusfrance_%C3%A0-loccasion-des-journ%C3%A9es-france-suisse-activity-7342827406002429952-Jzlp/?originalSubdomain=fr)
+- **French Nuclear Industry Day** | March 14, 2025 @ Paul Scherrer Institut [\[Link\]](https://www.i2en.fr/evenement/french-nuclear-industry-day-in-switzerland/)
+- **Celebrating the French community of ETH Zurich** |
+- **Celebrating the alumni of French Higher Education in Switzerland** | May 27, 2026 @ Grande Orangerie de Berne [\[Link\]](https://www.francealumni.fr/fr/agenda/celebration-de-la-communaute-des-alumni-en-suisse-france-alumni-days-2026-6262)
+
+- **Exploring the Universe, Transforming Medicine** | May 4, 2026 @ Universität Bern [\[Link\]](https://fr.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_espace-sant%C3%A9-innovation-activity-7453363770451714048-i-Wh)
+
+----
+# My career as a researcher (2019-2024)
+----
 # Publications 
  
 ###  "Spatiotemporal dynamics of self-organized branching in pancreas-derived organoids" **Nature Communications** 13, 5219 (2022) [\[Link\]](https://www.nature.com/articles/s41467-022-32806-y)
@@ -30,7 +55,15 @@ Selected as "one of the 600 most qualified young scientists" worldwide to attend
 
 For this occasion, I was interviewed by the Frankfurter Allgemeine Zeitung to talk about my experience there as a young researcher and "believing in the way forward" in Science. - 07/2023 [\[Link\]](https://www.faz.net/aktuell/wissen/forschung-politik/nobelpreistraegertagung-lindau-junge-forscher-erzaehlen-von-ihrer-arbeit-19016032.html)
 
-# Conferences
+# Scientific Diplomacy 
+
+In my career 
+
+===
+
+# Scientific Conferences
+
+Here are some of the conferences I took part in as a researcher, notably to present results on organoid development and pancreatic cancer modelling: 
 
 * Selected talk - ISMC 2023 7th International Soft Matter Conference, Osaka, Japan - 09/2023 [\[Link\]](https://ismc2023.jp/welcome.html)
 * Invited talk - The 6th International Conference on Physics and Biological Systems, ENS Paris-Saclay, France - 06/2022 [\[Link\]](https://www.lptms.universite-paris-saclay.fr/physbio2022/)
