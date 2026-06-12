@@ -1,4 +1,4 @@
-**Here, you will find some work that I am proud to have contributed to, both in my career in (scientific) diplomacy and as a researcher at the Technische Universität München** 
+**Here, you will find some work that I am proud to have contributed to, both in my career in (scientific) diplomacy, and as a researcher at the Technische Universität München** 
 
 ----
 # My career as a diplomat (2024-2026)
@@ -13,13 +13,13 @@ I covered the entire spectrum: from drafting concept notes, planning the logisti
 
 - **Exploring the Universe, Transforming Medicine** | May 4, 2026 @ Universität Bern [\[Link\]](https://fr.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_espace-sant%C3%A9-innovation-activity-7453363770451714048-i-Wh) -- Of particular mention, we had the honour of welcoming Dr. Claudie Haigneré, former Minister, and the first French Woman to go to space!
 
-- **5th Kornhaus Dialog - European security and hybrid threats: France, Austra and Switzerland in a new geopolitical environment** | March 26, 2026 @ Welle 7, Bern [\[Link\]](https://www.linkedin.com/posts/activity-7444653276211531776-0jzA)
+- **5th Kornhaus Dialog - European security and hybrid threats: France, Austria and Switzerland in a new geopolitical environment** | March 26, 2026 @ Welle 7, Bern [\[Link\]](https://www.linkedin.com/posts/activity-7444653276211531776-0jzA)
 
 - **One Health - From animals to humans: challenges and international cooperation in adressing zoonotic diseases** | March 17, 2026 @ Haus der Universität Bern [\[Link\]](https://www.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_one-health-berne-le-17-mars-2026-activity-7445411902836506627-Yx_A/?originalSubdomain=fr)
 
 - **Handling current and future nuclear waste: needs, solutions, perspectives** | October 30, 2025 @ Résidence de France à Berne [\[Link\]](https://fr.linkedin.com/posts/i2en_li2en-est-tr%C3%A8s-heureux-davoir-pu-contribuer-activity-7391152440751878144-8hw0)
 
-- **Protecting and capitalising on the oceans** | May 27, 2025 @ Universität Bern [\[Link\]](https://fr.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_prot%C3%A9ger-et-valoriser-durablement-les-oc%C3%A9ans-activity-7343999884229804032-Kk5W) -- Organised in the context of the 3rd Conference of United Nations on Ocean (UNOC3) hosted by France in Nice
+- **Protecting and preserving the oceans** | May 27, 2025 @ Universität Bern [\[Link\]](https://fr.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_prot%C3%A9ger-et-valoriser-durablement-les-oc%C3%A9ans-activity-7343999884229804032-Kk5W) -- Organised in the context of the 3rd Conference of United Nations on Ocean (UNOC3) hosted by France in Nice
 
 - **4th Kornhaus Dialog - Artificial intelligence and countering disinformation: threat or opportunity for democracies** | February 2O, 2025 @ Kornhaus Forum, Bern [\[Link\]](https://www.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_d%C3%A9bat-ia-activity-7292119817870798849-z64R)
 
