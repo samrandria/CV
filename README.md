@@ -17,16 +17,19 @@ I covered the entire spectrum: from drafting concept notes, planning the logisti
 
 - **One Health - From animals to humans: challenges and international cooperation in adressing zoonotic diseases** | March 17, 2026 @ Haus der Universität Bern [\[Link\]](https://www.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_one-health-berne-le-17-mars-2026-activity-7445411902836506627-Yx_A/?originalSubdomain=fr)
 
+- **Handling current and future nuclear waste: needs, solutions, perspectives** | October 30, 2025 @ Résidence de France à Berne [\[Link\]](https://fr.linkedin.com/posts/i2en_li2en-est-tr%C3%A8s-heureux-davoir-pu-contribuer-activity-7391152440751878144-8hw0)
+
 - **Protecting and capitalising on the oceans** | May 27, 2025 @ Universität Bern [\[Link\]](https://fr.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_prot%C3%A9ger-et-valoriser-durablement-les-oc%C3%A9ans-activity-7343999884229804032-Kk5W) -- Organised in the context of the 3rd Conference of United Nations on Ocean (UNOC3) hosted by France in Nice
 
-- **4th Kornhaus Dialog - Artificial intelligence and countering disinformation: threat or opportunity for democracies** | February 2O, 2025 @ Kornhaus Forum, Bern [\[Link\]](https://www.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_d%C3%A9bat-ia-activity-7292119817870798849-z64R) 
+- **4th Kornhaus Dialog - Artificial intelligence and countering disinformation: threat or opportunity for democracies** | February 2O, 2025 @ Kornhaus Forum, Bern [\[Link\]](https://www.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_d%C3%A9bat-ia-activity-7292119817870798849-z64R)
 
-- **10 years after the Paris Agreement, the fight continues: between aspirations and reality** |  @ Universität Bern [\[Link\]](https://fr.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_message-de-laurence-tubiana-depuis-bel%C3%A9m-activity-7398712373886357505-etj3)
+- **Celebrating the French community of ETH Zurich** | November 19, 2025 @ ETH Zürich 
 
+- **10 years after the Paris Agreement, the fight continues: between aspirations and reality** | November 10, 2025 @ Universität Bern [\[Link\]](https://fr.linkedin.com/posts/ambassade-de-france-en-suisse-et-au-liechtenstein_message-de-laurence-tubiana-depuis-bel%C3%A9m-activity-7398712373886357505-etj3)
 
-- **Franco-Swiss Days for Higher Education & Research** | May 22-23, 2025 @ Universität Basel [\[Link\]](https://www.linkedin.com/posts/campusfrance_%C3%A0-loccasion-des-journ%C3%A9es-france-suisse-activity-7342827406002429952-Jzlp/?originalSubdomain=fr) -- We brought together nearly 40 French and Swiss institutions - universities, ministries, startup incubators -, to discuss the     
+- **Franco-Swiss Days for Higher Education & Research** | May 22-23, 2025 @ Universität Basel [\[Link\]](https://www.linkedin.com/posts/campusfrance_%C3%A0-loccasion-des-journ%C3%A9es-france-suisse-activity-7342827406002429952-Jzlp/?originalSubdomain=fr) -- We brought together nearly 40 French and Swiss institutions - universities, ministries, startup incubators -, to discuss how to reinforce the link between education, research, and innovation ecosystems     
+
 - **French Nuclear Industry Day** | March 14, 2025 @ Paul Scherrer Institut [\[Link\]](https://www.i2en.fr/evenement/french-nuclear-industry-day-in-switzerland/)
-- **Celebrating the French community of ETH Zurich** | @ ETH Zürich 
 
 
 ----
